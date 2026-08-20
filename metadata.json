@@ -1,0 +1,6 @@
+{
+  "name": "Pani Puri Crush",
+  "description": "A match-3 puzzle game where you swap tasty Golgappas, trigger Pani blasts, burst spicy masala blockers, and progress through hundreds of levels!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
